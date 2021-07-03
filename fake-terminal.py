@@ -1,1 +1,2 @@
-terminal = input(">>>");
+terminal = input(">>>")
+print(terminal)
