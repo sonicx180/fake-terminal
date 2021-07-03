@@ -1,4 +1,4 @@
-# fake-terminal
+# fake terminal
 A fake python terminal
 
 #Instructions
@@ -10,4 +10,4 @@ Then type in  `python fake-terminal.py` (With spaces).
 Make sure you have downloaded the fake-terminal.py file and moved it to the Linux/Mac terminal files.
 
 
-You should be able to see the fake-terminal!
+You should be able to see the fake terminal!
