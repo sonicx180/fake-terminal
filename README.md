@@ -1,3 +1,4 @@
+![Screenshot 2021-07-03 1 40 04 PM](https://user-images.githubusercontent.com/83236320/124366375-3c06f180-dc04-11eb-9455-bb678323236e.png)
 # fake terminal
 A fake python terminal
 
