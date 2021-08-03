@@ -1,2 +1,3 @@
-terminal = input(">>>")
-print(terminal)
+while True:
+    terminal = input(">>>")
+    print(terminal)
