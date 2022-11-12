@@ -13,4 +13,4 @@ Make sure you have downloaded the fake-terminal.py file and moved it to the Linu
 
 You should be able to see the fake terminal!
 
-![Screenshot 2021-07-03 1 40 04 PM](https://user-images.githubusercontent.com/83236320/124366375-3c06f180-dc04-11eb-9455-bb678323236e.png)
+![124366375-3c06f180-dc04-11eb-9455-bb678323236e](https://user-images.githubusercontent.com/116416379/201084760-ca4bb779-f81d-4240-8a4e-644c4b5de03c.png)
